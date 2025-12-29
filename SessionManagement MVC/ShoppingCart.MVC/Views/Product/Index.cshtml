@@ -1,0 +1,12 @@
+@model List<ShoppingCart.MVC.Models.Product>
+
+<h2>Products</h2>
+
+@foreach (var p in Model)
+{
+    <div>
+        <b>@p.Name</b> - ₹@p.Price
+        <a href="/Product/Details/@p.Id">Details</a>
+        <a href="/ShoppingCart/Add/@p.Id">Add to Cart</a>
+    </div>
+}

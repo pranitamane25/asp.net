@@ -1,0 +1,38 @@
+@model List<CatalogApp.Models.Product>
+
+<h2>Products List</h2>
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Title</td>
+                <td>@p.Price</td>
+                <td>@p.Quantity</td>
+                <td>@p.Description</td>
+
+                <td>
+                    <a asp-controller="Products" asp-action="Details" asp-route-id="@p.Id">Details</a> |
+                    <a asp-controller="Products" asp-action="Edit" asp-route-id="@p.Id">Edit</a> |
+                    <a asp-controller="Products" asp-action="Delete" asp-route-id="@p.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<a asp-controller="Products" asp-action="Create">Add New Product</a>

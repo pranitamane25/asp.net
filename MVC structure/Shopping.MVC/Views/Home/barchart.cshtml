@@ -1,0 +1,29 @@
+<h4>Bar Chart</h4>
+<canvas id="barChart"></canvas>
+ 
+<script>
+    $(document).ready(function () {
+ 
+        $.ajax({
+            url: '/Home/GetBarChartData',
+            type: 'GET',
+            success: function (res) {
+ 
+                new Chart(document.getElementById('barChart'), {
+                    type: 'bar',
+                    data: {
+                        labels: res.labels,
+                        datasets: [{
+                            label: 'Sales',
+                            data: res.values
+                        }]
+                    }
+                });
+            },
+            error: function () {
+                alert('Error loading bar chart data');
+            }
+        });
+ 
+    });
+</script>

@@ -1,0 +1,14 @@
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\bin\Debug\net9.0\MyAssessment.Console.exe
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\bin\Debug\net9.0\MyAssessment.Console.deps.json
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\bin\Debug\net9.0\MyAssessment.Console.runtimeconfig.json
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\bin\Debug\net9.0\MyAssessment.Console.dll
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\bin\Debug\net9.0\MyAssessment.Console.pdb
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\MyAssessment.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\MyAssessment.Console.AssemblyInfoInputs.cache
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\MyAssessment.Console.AssemblyInfo.cs
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\MyAssessment.Console.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\MyAssessment.Console.dll
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\refint\MyAssessment.Console.dll
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\MyAssessment.Console.pdb
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\MyAssessment.Console.genruntimeconfig.cache
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessment.Console\obj\Debug\net9.0\ref\MyAssessment.Console.dll

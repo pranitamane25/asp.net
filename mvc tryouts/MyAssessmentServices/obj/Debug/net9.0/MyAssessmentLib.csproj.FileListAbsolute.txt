@@ -1,0 +1,11 @@
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\bin\Debug\net9.0\MyAssessmentLib.deps.json
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\bin\Debug\net9.0\MyAssessmentLib.dll
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\bin\Debug\net9.0\MyAssessmentLib.pdb
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\obj\Debug\net9.0\MyAssessmentLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\obj\Debug\net9.0\MyAssessmentLib.AssemblyInfoInputs.cache
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\obj\Debug\net9.0\MyAssessmentLib.AssemblyInfo.cs
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\obj\Debug\net9.0\MyAssessmentLib.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\obj\Debug\net9.0\MyAssessmentLib.dll
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\obj\Debug\net9.0\refint\MyAssessmentLib.dll
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\obj\Debug\net9.0\MyAssessmentLib.pdb
+D:\Transflower\TAP\ASP.net\mvc tryouts\MyAssessmentServices\obj\Debug\net9.0\ref\MyAssessmentLib.dll

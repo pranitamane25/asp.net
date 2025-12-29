@@ -1,0 +1,13 @@
+@model CatalogApp.Models.Product
+
+<h2>Product Added!</h2>
+<hr />
+
+<p><strong>Id:</strong> @Model.Id</p>
+<p><strong>Title:</strong> @Model.Title</p>
+<p><strong>Price:</strong> @Model.Price</p>
+
+<br />
+<a asp-action="Index">Back to Products</a>
+<br />
+<a asp-action="Summary">Go to Cart</a>

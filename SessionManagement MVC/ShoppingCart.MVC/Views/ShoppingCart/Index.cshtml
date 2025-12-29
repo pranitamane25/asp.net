@@ -1,0 +1,12 @@
+@model List<ShoppingCart.MVC.Models.CartItem>
+
+<h2>My Cart</h2>
+
+@foreach (var item in Model)
+{
+    <p>
+        @item.ProductName |
+        ₹@item.Price |
+        Qty: @item.Quantity
+    </p>
+}

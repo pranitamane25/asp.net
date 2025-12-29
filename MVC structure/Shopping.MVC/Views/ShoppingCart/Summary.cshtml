@@ -1,0 +1,14 @@
+@model List<Shopping.MVC.Models.Item>
+
+<h2>Cart Summary</h2>
+
+@foreach (var item in Model)
+{
+    <p>
+        @item.Product.Name |
+        Qty: @item.Quantity |
+        Total: @(item.Product.Price * item.Quantity)
+    </p>
+}
+
+<a href="/ShoppingCart/Index">Back</a>

@@ -1,0 +1,29 @@
+@model List<CatalogApp.Models.Product>
+
+<h2>All Products</h2>
+<hr />
+
+<table border="1" cellpadding="8">
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Price</th>
+        <th>Add</th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Title</td>
+            <td>@p.Price</td>
+            <td>
+                <a asp-action="Add" asp-route-id="@p.Id">Add to Cart</a>
+            </td>
+        </tr>
+    }
+</table>
+
+<br />
+
+<a asp-action="Summary">Go to Cart</a>
