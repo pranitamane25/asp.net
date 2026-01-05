@@ -1,0 +1,12 @@
+[
+  { "userId": "U001", "name": "Rahul Sharma", "email": "rahul@gmail.com" },
+  { "userId": "U002", "name": "Anita Verma", "email": "anita@gmail.com" },
+  { "userId": "U003", "name": "Suresh Kumar", "email": "suresh@gmail.com" },
+  { "userId": "U004", "name": "Priya Singh", "email": "priya@gmail.com" },
+  { "userId": "U005", "name": "Amit Patel", "email": "amit@gmail.com" },
+  { "userId": "U006", "name": "Neha Joshi", "email": "neha@gmail.com" },
+  { "userId": "U007", "name": "Rohit Mehta", "email": "rohit@gmail.com" },
+  { "userId": "U008", "name": "Kiran Rao", "email": "kiran@gmail.com" },
+  { "userId": "U009", "name": "Pooja Nair", "email": "pooja@gmail.com" },
+  { "userId": "U010", "name": "Arjun Das", "email": "arjun@gmail.com" }
+]

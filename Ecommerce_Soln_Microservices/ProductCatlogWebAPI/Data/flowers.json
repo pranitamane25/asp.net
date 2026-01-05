@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 2,
+    "Name": "Tulip",
+    "Color": "yellow",
+    "Price": 10.5,
+    "Stock": 10
+  },
+  {
+    "Id": 3,
+    "Name": "Tulip",
+    "Color": "Yellow",
+    "Price": 25.0,
+    "Stock": 70
+  },
+  {
+    "Id": 4,
+    "Name": "Rose",
+    "Color": "Red",
+    "Price": 20.5,
+    "Stock": 100
+  },
+  {
+    "Id": 5,
+    "Name": "Tulip",
+    "Color": "yellow",
+    "Price": 10.5,
+    "Stock": 10
+  }
+]

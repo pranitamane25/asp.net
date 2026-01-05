@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOYTPae5jTw=",
+  "success": true,
+  "projectFilePath": "D:\\Transflower\\TAP\\ASP.net\\Ecommerce_Soln_Microservices\\API Gateway\\OrderProcessing.Api\\OrderProcessing.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prani\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\prani\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
