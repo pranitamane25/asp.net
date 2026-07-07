@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1E1FdwqwMg=",
+  "success": true,
+  "projectFilePath": "D:\\Transflower\\TAP\\asp.net\\Kafka\\OrderService\\OrderService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prani\\.nuget\\packages\\confluent.kafka\\2.13.2\\confluent.kafka.2.13.2.nupkg.sha512",
+    "C:\\Users\\prani\\.nuget\\packages\\librdkafka.redist\\2.13.2\\librdkafka.redist.2.13.2.nupkg.sha512",
+    "C:\\Users\\prani\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\prani\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

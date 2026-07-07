@@ -1,0 +1,146 @@
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.csproj.AssemblyReference.cache
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.GeneratedMSBuildEditorConfig.editorconfig
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.AssemblyInfoInputs.cache
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.AssemblyInfo.cs
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.csproj.CoreCompileInputs.cache
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.MvcApplicationPartsAssemblyInfo.cs
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.MvcApplicationPartsAssemblyInfo.cache
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.sourcelink.json
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\appsettings.Development.json
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\appsettings.json
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\ShipmentService.exe
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\ShipmentService.deps.json
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\ShipmentService.runtimeconfig.json
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\ShipmentService.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\ShipmentService.pdb
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\RabbitMQ.Client.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\staticwebassets.build.json
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\staticwebassets.development.json
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\staticwebassets\msbuild.ShipmentService.Microsoft.AspNetCore.StaticWebAssets.props
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\staticwebassets\msbuild.build.ShipmentService.props
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShipmentService.props
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShipmentService.props
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\staticwebassets.pack.json
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\scopedcss\bundle\ShipmentService.styles.css
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\Shipment.9D683C2D.Up2Date
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\refint\ShipmentService.dll
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.pdb
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ShipmentService.genruntimeconfig.cache
+A:\TAP\GitHub\DotNet\OfflineSoution\ShipmentService\obj\Debug\net8.0\ref\ShipmentService.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\appsettings.Development.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\appsettings.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\ShipmentService.staticwebassets.endpoints.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\ShipmentService.exe
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\ShipmentService.deps.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\ShipmentService.runtimeconfig.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\ShipmentService.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\ShipmentService.pdb
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.csproj.AssemblyReference.cache
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.AssemblyInfoInputs.cache
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.AssemblyInfo.cs
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.csproj.CoreCompileInputs.cache
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.MvcApplicationPartsAssemblyInfo.cs
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.MvcApplicationPartsAssemblyInfo.cache
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.sourcelink.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\scopedcss\bundle\ShipmentService.styles.css
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\staticwebassets.build.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\staticwebassets.development.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\Shipment.9D683C2D.Up2Date
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\refint\ShipmentService.dll
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.pdb
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ShipmentService.genruntimeconfig.cache
+D:\c# codes\DotNet\.NET WEB CORE\ShipmentService\obj\Debug\net8.0\ref\ShipmentService.dll
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\appsettings.Development.json
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\appsettings.json
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\ShipmentService.staticwebassets.endpoints.json
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\ShipmentService.exe
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\ShipmentService.deps.json
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\ShipmentService.runtimeconfig.json
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\ShipmentService.dll
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\ShipmentService.pdb
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Transflower\TAP\asp.net\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.csproj.AssemblyReference.cache
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.AssemblyInfoInputs.cache
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.AssemblyInfo.cs
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.MvcApplicationPartsAssemblyInfo.cs
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.MvcApplicationPartsAssemblyInfo.cache
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.sourcelink.json
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\scopedcss\bundle\ShipmentService.styles.css
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\staticwebassets.build.json
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\staticwebassets.development.json
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\Shipment.9D683C2D.Up2Date
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.dll
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\refint\ShipmentService.dll
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.pdb
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ShipmentService.genruntimeconfig.cache
+D:\Transflower\TAP\asp.net\ShipmentService\obj\Debug\net8.0\ref\ShipmentService.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\appsettings.Development.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\appsettings.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\ShipmentService.staticwebassets.endpoints.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\ShipmentService.exe
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\ShipmentService.deps.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\ShipmentService.runtimeconfig.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\ShipmentService.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\ShipmentService.pdb
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.csproj.AssemblyReference.cache
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.AssemblyInfoInputs.cache
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.AssemblyInfo.cs
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.MvcApplicationPartsAssemblyInfo.cs
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.MvcApplicationPartsAssemblyInfo.cache
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.sourcelink.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\scopedcss\bundle\ShipmentService.styles.css
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\staticwebassets.build.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\staticwebassets.development.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\Shipment.9D683C2D.Up2Date
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\refint\ShipmentService.dll
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.pdb
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ShipmentService.genruntimeconfig.cache
+D:\Transflower\TAP\asp.net\OfflineServer\ShipmentService\obj\Debug\net8.0\ref\ShipmentService.dll

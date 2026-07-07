@@ -2,7 +2,6 @@ using Shopping.MVC.Models;
 using Shopping.MVC.Repositories.Interfaces;
 
 namespace Shopping.MVC.Repositories.Implementations;
-
 public class ProductRepository : IProductsRepository
 {
     List<Product> products=new List<Product>();
@@ -21,7 +20,7 @@ public class ProductRepository : IProductsRepository
 
     public void Insert(Product theProduct)
     {
-     //Console.WriteLine($"Product:,{theProduct.Id} {theProduct.Name}, {theProduct.Price}");
+     
 
         products.Add(theProduct);
        

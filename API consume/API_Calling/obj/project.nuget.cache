@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tln7I9UkF1g=",
+  "success": true,
+  "projectFilePath": "D:\\Transflower\\TAP\\asp.net\\API consume\\API_Calling\\API_Calling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prani\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\prani\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

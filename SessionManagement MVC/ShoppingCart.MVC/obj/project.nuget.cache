@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QJeNQbA5/Os=",
+  "dgSpecHash": "Bg1bfIK35XI=",
   "success": true,
-  "projectFilePath": "D:\\Transflower\\TAP\\ASP.net\\SessionManagement MVC\\ShoppingCart.MVC\\ShoppingCart.MVC.csproj",
+  "projectFilePath": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\ShoppingCart.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\prani\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\prani\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",

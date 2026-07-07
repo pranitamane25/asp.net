@@ -1,0 +1,15 @@
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\bin\Debug\net9.0\CSV_FileIO.exe
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\bin\Debug\net9.0\CSV_FileIO.deps.json
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\bin\Debug\net9.0\CSV_FileIO.runtimeconfig.json
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\bin\Debug\net9.0\CSV_FileIO.dll
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\bin\Debug\net9.0\CSV_FileIO.pdb
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\CSV_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\CSV_FileIO.AssemblyInfoInputs.cache
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\CSV_FileIO.AssemblyInfo.cs
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\CSV_FileIO.csproj.CoreCompileInputs.cache
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\CSV_FileIO.sourcelink.json
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\CSV_FileIO.dll
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\refint\CSV_FileIO.dll
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\CSV_FileIO.pdb
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\CSV_FileIO.genruntimeconfig.cache
+D:\Transflower\TAP\asp.net\CSV_File_IO\CSV_FileIO\obj\Debug\net9.0\ref\CSV_FileIO.dll

@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using SecureProductApi.DTO;
+using SecureProductApi.DTO;//Used to receive product data from client from DTO
 
 [ApiController]
 [Route("api/products")]

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|d:\\transflower\\tap\\asp.net\\sessionmanagement mvc\\shoppingcart.mvc\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|solutionrelative:shoppingcart.mvc\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|d:\\transflower\\tap\\asp.net\\sessionmanagement mvc\\shoppingcart.mvc\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|solutionrelative:shoppingcart.mvc\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|d:\\transflower\\tap\\asp.net\\sessionmanagement mvc\\shoppingcart.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|solutionrelative:shoppingcart.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|d:\\transflower\\tap\\asp.net\\sessionmanagement mvc\\shoppingcart.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|solutionrelative:shoppingcart.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|d:\\transflower\\tap\\asp.net\\sessionmanagement mvc\\shoppingcart.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AFD034B-25AF-5954-79A0-5A8ADB7B0925}|ShoppingCart.MVC\\ShoppingCart.MVC.csproj|solutionrelative:shoppingcart.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.MVC\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ShoppingCart.MVC\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:23:19.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.MVC\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "ShoppingCart.MVC\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T10:16:47.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoppingCart.MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T10:16:31.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShoppingCart.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAABAMzMzM/MuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T10:16:19.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.MVC\\Program.cs",
+              "ToolTip": "D:\\Transflower\\TAP\\asp.net\\SessionManagement MVC\\ShoppingCart.MVC\\Program.cs",
+              "RelativeToolTip": "ShoppingCart.MVC\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T10:15:59.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
