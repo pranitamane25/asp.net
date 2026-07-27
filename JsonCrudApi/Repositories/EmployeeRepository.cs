@@ -1,7 +1,9 @@
-using JsonCrudApi.Repositories;
+//using JsonCrudApi.Repositories;
 using jsoncrudapi.Models;
 using System.Text.Json;
-namespace jsoncrudapi.Repositories;
+using JsonCrudApi.Repositories;
+
+namespace jsoncrudapi.Repositories.Emp;
 
 public class EmployeeRepository : IEmployeeRepository
 {
@@ -13,6 +15,7 @@ public class EmployeeRepository : IEmployeeRepository
         {
             return new List<Employee>();
         }
+        string json=File.ReadAllText(FilePath);
 
         return JsonSerializer.Deserialize<List<Employee>>(json)??new List<Employee>();
     }
