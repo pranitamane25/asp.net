@@ -1,6 +1,7 @@
 namespace jsoncrudapi.Services;
 using jsoncrudapi.Models;
 using JsonCrudApi.Repositories;
+using Microsoft.AspNetCore.Mvc;
 
 public class EmployeeService : IEmployeeService
 {
@@ -14,5 +15,14 @@ public class EmployeeService : IEmployeeService
     public List<Employee> GetAll()
     {
         return _repo.GetAll();
+    }
+  
+    public Employee GetById(int id)
+    {
+        return _repo.GetById(id);
+    }
+    public void Add(Employee employee)
+    {
+         _repo.Add(employee);
     }
 }

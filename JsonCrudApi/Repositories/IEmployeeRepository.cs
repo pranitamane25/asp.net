@@ -3,9 +3,8 @@ namespace JsonCrudApi.Repositories;
 public interface IEmployeeRepository
 {
     public List<Employee>GetAll();
-
-    // Employee GetById(int id);
-    // void Add(Employee employee);
+    Employee GetById(int id);
+    void Add(Employee employee);
 
     // void Update(Employee employee);
     // void Delete(int id);

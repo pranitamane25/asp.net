@@ -1,3 +1,4 @@
+using jsoncrudapi.Models;
 using jsoncrudapi.Services;
 using Microsoft.AspNetCore.Mvc;
 namespace jsoncrudapi.Controllers;
@@ -16,5 +17,25 @@ public class EmployeeController:ControllerBase
     public IActionResult GetAll()
     {
         return Ok(_service.GetAll());
+    }
+    
+    [HttpGet("{id}")]
+    public IActionResult GetById(int id)
+    {
+            Employee employee=_service.GetById(id);
+
+            if (employee == null)
+                return NotFound();
+
+                return Ok(employee);
+            }
+        
+
+        [HttpPost]
+
+        public IActionResult Add(Employee employee)
+    {
+        _service.Add(employee);
+        return Ok("Employee Added successfully");
     }
 }

@@ -34,4 +34,20 @@ public class EmployeeRepository : IEmployeeRepository
     {
         return ReadFile(); 
     }
-}
+
+    public Employee GetById(int id)
+    {
+        return ReadFile().FirstOrDefault(e=>e.Id==id);
+    }
+
+    public void Add(Employee employee)
+    {
+        List<Employee>employees=ReadFile();
+         employee.Id = employees.Any()
+                ? employees.Max(e => e.Id) + 1
+                : 1; 
+                employees.Add(employee);
+                WriteFile(employees);          
+        }
+    }
+
