@@ -38,4 +38,12 @@ public class EmployeeController:ControllerBase
         _service.Add(employee);
         return Ok("Employee Added successfully");
     }
+
+    [HttpDelete("{id}")]
+
+    public IActionResult Delete(int id)
+    {
+        _service.Delete(id);
+        return Ok("Employee Deleted successfully");
+    }
 }

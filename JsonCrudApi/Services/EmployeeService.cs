@@ -25,4 +25,9 @@ public class EmployeeService : IEmployeeService
     {
          _repo.Add(employee);
     }
+
+    public void Delete(int id)
+    {
+        _repo.Delete(id);
+    }
 }

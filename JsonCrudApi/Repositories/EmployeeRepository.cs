@@ -49,5 +49,18 @@ public class EmployeeRepository : IEmployeeRepository
                 employees.Add(employee);
                 WriteFile(employees);          
         }
+
+        public void Delete(int id)
+    {
+        List<Employee> employees = ReadFile();
+        
+            Employee employee=employees.FirstOrDefault(e=>e.Id==id);
+            if (employee != null)
+            {
+                employees.Remove(employee);
+                WriteFile(employees);
+            }
+        
+    }
     }
 

@@ -10,5 +10,35 @@
     "Name": "Alice",
     "Department": "HR",
     "Salary": 35000
+  },
+  {
+    "Id": 3,
+    "Name": "tejal",
+    "Department": "IT",
+    "Salary": 45000
+  },
+  {
+    "Id": 4,
+    "Name": "Anish",
+    "Department": "Cs",
+    "Salary": 1500000
+  },
+  {
+    "Id": 5,
+    "Name": "Anish",
+    "Department": "Cs",
+    "Salary": 1500000
+  },
+  {
+    "Id": 6,
+    "Name": "tejas",
+    "Department": "Cs",
+    "Salary": 1500000
+  },
+  {
+    "Id": 7,
+    "Name": "tejas",
+    "Department": "Cs",
+    "Salary": 1500000
   }
 ]
