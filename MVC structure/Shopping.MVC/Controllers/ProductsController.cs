@@ -15,8 +15,8 @@ public class ProductsController : Controller
     public IActionResult Items()
     {
         var items = _repository.GetAllProducts();
-        // return View(items);
-            return Json(items); // return JSON, not View
+        
+            return View(items); // return  View
 
     }
 
@@ -36,8 +36,14 @@ public IActionResult Create([FromBody] Product product)
 {
 //Console.WriteLine($"Product:,{product.Id} {product.Name}, {product.Price}");
     _repository.Insert(product);
-    return Ok("Inserted");
-    //return View(product);
+    //return Ok("Inserted");
+    return View(product);
+}
+
+[HttpGet]
+public IActionResult Create()
+{
+    return View();
 }
 
     public IActionResult Remove(int productId)
@@ -48,7 +54,6 @@ public IActionResult Create([FromBody] Product product)
         if (product != null)
             _repository.Remove(product);
 
-        return RedirectToAction("Items");
-        
+        return RedirectToAction("Items");        
     }
 }

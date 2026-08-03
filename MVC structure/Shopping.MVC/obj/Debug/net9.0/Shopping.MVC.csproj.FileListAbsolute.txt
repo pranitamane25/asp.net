@@ -53,8 +53,6 @@ D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compresse
 D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\zrieohw6ak-ttgo8qnofa.gz
 D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\8jb5sltn96-87fc7y1x7t.gz
 D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\1xplqvxq6e-mlv21k5csn.gz
-D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\k5wmgx8d5z-nv14yo0puv.gz
-D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\4n73q5ctcv-nv14yo0puv.gz
 D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\staticwebassets.build.json
 D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\staticwebassets.build.json.cache
 D:\Transflower\TAP\ASP.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\staticwebassets.development.json
@@ -95,3 +93,5 @@ D:\Transflower\TAP\asp.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compresse
 D:\Transflower\TAP\asp.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\0effklxe01-m9qm4tazc0.gz
 D:\Transflower\TAP\asp.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\5ptu2eph7s-jjsuc0puko.gz
 D:\Transflower\TAP\asp.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\duiw7trwzw-9vr69e8ynj.gz
+D:\Transflower\TAP\asp.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\k5wmgx8d5z-nv14yo0puv.gz
+D:\Transflower\TAP\asp.net\MVC structure\Shopping.MVC\obj\Debug\net9.0\compressed\4n73q5ctcv-nv14yo0puv.gz

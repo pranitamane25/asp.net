@@ -9,7 +9,6 @@ builder.Services.AddControllersWithViews();
 // Add session service
 builder.Services.AddSession();
 
-// 🔴 THIS LINE WAS MISSING
 
 
 builder.Services.AddSingleton<IProductsRepository, ProductRepository>();
