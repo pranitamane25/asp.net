@@ -15,6 +15,10 @@ public class ProductsController : Controller
     public IActionResult Items()
     {
         var items = _repository.GetAllProducts();
+        ViewBag.totalproducts=items.Count;
+
+        ViewData["title"]="product list";
+        ViewData["offer"]="Flat 20% OFF";
         
             return View(items); // return  View
 
@@ -32,12 +36,12 @@ public class ProductsController : Controller
     }
 
    [HttpPost]
-public IActionResult Create([FromBody] Product product)
+public IActionResult Create( Product product)
 {
-//Console.WriteLine($"Product:,{product.Id} {product.Name}, {product.Price}");
+
     _repository.Insert(product);
-    //return Ok("Inserted");
-    return View(product);
+    TempData["Success"]="Product added successfully";
+    return RedirectToAction ("items");
 }
 
 [HttpGet]
